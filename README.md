@@ -6,9 +6,9 @@
 <h3 align="center">System Architect from Bangladesh</h3>
 I'm a tech enthusiast with a passion for exploring new technologies and tools. With over 10 years of experience in the IT solutions field, skilled in network administration, system administration, cloud operations, and DevOps practices. 
 
-- 🔭 I’m currently working on [Synesis IT PLC ](https://synesisit.com.bd)
+- 🔭 I’m currently working at [Synesis IT PLC ](https://synesisit.com.bd)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** **System Design**
 
 - 💬 Ask me about **Network, System and Security**
 
