@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahbubumithu&label=Profile%20views&color=0e75b6&style=flat" alt="mahbubumithu" /> </p>
 <h1 align="center">Hi 👋, I'm MD MAHBUB UDDIN. Nick name is Mithu</h1>
 <h3 align="center">System Architect from Bangladesh</h3>
-I'm a tech enthusiast with a passion for exploring new technologies and tools. With over 10 years of experience in the IT solutions field, skilled in network administration, system administration, cloud operations, and DevOps practices. 
+I'm a tech enthusiast with a passion for exploring new technologies and tools. With over 10+ years of experience in the IT solutions field, skilled in network administration, system administration, cloud operations, and DevOps practices. 
 
 - 🔭 I’m currently working at [Synesis IT PLC ](https://synesisit.com.bd)
 
